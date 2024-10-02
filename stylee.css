@@ -5,4 +5,47 @@ margin: 0px;
 }
 
 header}
-  bordem-bottoms
+  bordem-bottoms: solid 2px rgb(42,122,228);
+   padding: 20px; 
+    font-size: 32p
+     color: rgb(42,122,228);
+}
+
+section 
+  background:regb (184, 156, 213);
+   padding-bottom: 80px;
+    padding-top: 80px;
+}
+body{
+  color: white;
+  background: black;
+  margin:0px;
+}
+
+header{
+      border-bottom: solid 2px rgb(42,122,228);
+      padding: 20px;
+      font-size: 32px;
+      color: rgb(42,122,288);
+}
+
+section{
+  background: rgb(184,156,213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+
+.chamada-texto{
+
+  margin-left: 5%;
+}
+
+h1{
+
+  font-size: 40px;
+}
+
+p{
+
+  font-size: 20px;
+}
